@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">dada</string>
+    <string name="chart_screen_title">Dada</string>
+    <string name="order_book_title">Order Book</string>
+    <string name="order_book_spread_label">Spread %1$s</string>
+    <string name="order_book_spread_unavailable">Spread —</string>
+    <string name="timeframe_control_content_description">Select %1$s timeframe</string>
+    <string name="heatmap_node_popup_price_label">Price</string>
+    <string name="heatmap_node_popup_bid_label">Bid</string>
+    <string name="heatmap_node_popup_ask_label">Ask</string>
+    <string name="heatmap_node_popup_imbalance_label">Imbalance</string>
+    <string name="heatmap_node_popup_duration_label">Resting</string>
+    <string name="heatmap_node_popup_dismiss_content_description">Dismiss selected level</string>
+</resources>
